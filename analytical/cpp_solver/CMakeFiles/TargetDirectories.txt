@@ -1,0 +1,4 @@
+/Users/sumukh/Desktop/UM/magdesk/Codes/cpp_solver/CMakeFiles/rebuild_cache.dir
+/Users/sumukh/Desktop/UM/magdesk/Codes/cpp_solver/CMakeFiles/edit_cache.dir
+/Users/sumukh/Desktop/UM/magdesk/Codes/cpp_solver/CMakeFiles/test_eigen.dir
+/Users/sumukh/Desktop/UM/magdesk/Codes/cpp_solver/CMakeFiles/cppsolver.dir
